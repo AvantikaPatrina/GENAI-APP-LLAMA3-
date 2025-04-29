@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+ipykernel
+faiss-cpu
+beautifulsoup4
+langchain_community
+beautifulsoup4
+streamlit
+
